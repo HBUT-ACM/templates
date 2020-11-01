@@ -32,9 +32,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07509490-6ca5-4bc4-a213-0468df6686a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
-    </list>
+    <list default="true" id="07509490-6ca5-4bc4-a213-0468df6686a7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,13 +63,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,7 +73,7 @@
       <updated>1602303869759</updated>
       <workItem from="1602303871289" duration="1185000" />
       <workItem from="1602395458494" duration="59000" />
-      <workItem from="1602395545088" duration="824000" />
+      <workItem from="1602395545088" duration="1358000" />
     </task>
     <servers />
   </component>
@@ -102,14 +93,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="75" y="83" width="1290" height="734" key="DiffContextDialog" timestamp="1602396370058">
+    <state x="75" y="83" width="1290" height="734" key="DiffContextDialog" timestamp="1602396800751">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="75" y="83" width="1290" height="734" key="DiffContextDialog/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1602396370058" />
+    <state x="75" y="83" width="1290" height="734" key="DiffContextDialog/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1602396800751" />
     <state x="-155" y="-980" width="1720" height="880" key="DiffContextDialog/0.23.1440.877/-255.-1080.1920.1080@-255.-1080.1920.1080" timestamp="1602304724226" />
     <state x="305" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1602304387391">
       <screen x="-255" y="-1080" width="1920" height="1080" />
     </state>
     <state x="305" y="-800" key="Vcs.Push.Dialog.v2/0.0.1440.900/-255.-1080.1920.1080@-255.-1080.1920.1080" timestamp="1602304387391" />
+    <state x="536" y="175" key="git4idea.branch.GitBranchIsNotFullyMergedDialog" timestamp="1602396802987">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="536" y="175" key="git4idea.branch.GitBranchIsNotFullyMergedDialog/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1602396802987" />
   </component>
 </project>
