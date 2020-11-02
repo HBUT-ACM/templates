@@ -32,7 +32,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07509490-6ca5-4bc4-a213-0468df6686a7" name="Default Changelist" comment="" />
+    <list default="true" id="07509490-6ca5-4bc4-a213-0468df6686a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +46,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="HEAD" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,6 +65,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,6 +81,7 @@
       <workItem from="1602303871289" duration="1185000" />
       <workItem from="1602395458494" duration="59000" />
       <workItem from="1602395545088" duration="1358000" />
+      <workItem from="1604212303943" duration="896000" />
     </task>
     <servers />
   </component>
@@ -93,15 +101,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="75" y="83" width="1290" height="734" key="DiffContextDialog" timestamp="1602396800751">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="-434" y="-1307" width="2294" height="1175" key="DiffContextDialog" timestamp="1604212938851">
+      <screen x="-567" y="-1440" width="2560" height="1440" />
     </state>
+    <state x="-434" y="-1307" width="2294" height="1175" key="DiffContextDialog/0.0.1440.900/-567.-1440.2560.1440@-567.-1440.2560.1440" timestamp="1604212938851" />
     <state x="75" y="83" width="1290" height="734" key="DiffContextDialog/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1602396800751" />
     <state x="-155" y="-980" width="1720" height="880" key="DiffContextDialog/0.23.1440.877/-255.-1080.1920.1080@-255.-1080.1920.1080" timestamp="1602304724226" />
-    <state x="305" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1602304387391">
-      <screen x="-255" y="-1080" width="1920" height="1080" />
+    <state x="-467" y="-1340" width="2360" height="1240" key="ShowDiffWithBranchDialog" timestamp="1604212938852">
+      <screen x="-567" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="-467" y="-1340" width="2360" height="1240" key="ShowDiffWithBranchDialog/0.0.1440.900/-567.-1440.2560.1440@-567.-1440.2560.1440" timestamp="1604212938852" />
+    <state x="180" y="-1067" key="Vcs.Push.Dialog.v2" timestamp="1604212803465">
+      <screen x="-567" y="-1440" width="2560" height="1440" />
     </state>
     <state x="305" y="-800" key="Vcs.Push.Dialog.v2/0.0.1440.900/-255.-1080.1920.1080@-255.-1080.1920.1080" timestamp="1602304387391" />
+    <state x="180" y="-1067" key="Vcs.Push.Dialog.v2/0.0.1440.900/-567.-1440.2560.1440@-567.-1440.2560.1440" timestamp="1604212803465" />
     <state x="536" y="175" key="git4idea.branch.GitBranchIsNotFullyMergedDialog" timestamp="1602396802987">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
